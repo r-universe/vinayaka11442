@@ -8,3 +8,6 @@
 [submodule "NPBBBDAefficiency"]
 	path = NPBBBDAefficiency
 	url = https://github.com/cran/NPBBBDAefficiency
+[submodule "PhysioIndexR"]
+	path = PhysioIndexR
+	url = https://github.com/cran/PhysioIndexR
